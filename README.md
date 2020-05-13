@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Get to know Karly
 
 You can use the [editor on GitHub](https://github.com/trajkovskakarolina/MyPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
